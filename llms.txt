@@ -1,0 +1,61 @@
+# Domena.pl
+
+> Domena.pl sp. z o.o. (dawniej Agnat sp. z o.o.) z Bydgoszczy to polski rejestrator domen i dostawca hostingu działający od ponad 20 lat. Oferuje rejestrację i transfer domen (.pl, .eu, .com i inne), hosting SSD, serwery VPS i dedykowane, certyfikaty SSL, strony WWW oraz pozycjonowanie i Google Ads. Serwery pracują w Exea Data Center w Toruniu (TIER III, ISO/IEC 27001, ISO 22301).
+
+Najważniejsze fakty (stan: październik 2026, ceny netto, do cen doliczany jest 23% VAT):
+
+- Domena .pl: 4,99 zł za pierwszy rok (promocja), odnowienie 129 zł/rok, reaktywacja 69 zł.
+- Domena .eu: 29,99 zł za pierwszy rok (promocja); .com/.net/.org: 49,99 zł za pierwszy rok (promocja).
+- Hosting SSD: Podstawowy 200 GB – 29,99 zł, Optymalny 300 GB – 39,99 zł, Profesjonalny 500 GB – 59,99 zł, Elitarny 1000 GB – 399 zł za pierwszy rok (promocja dla nowych klientów). Transfer bez limitu, domena .pl za 0 zł, 10 dni bezpłatnego testu.
+- Serwery dedykowane: 2× Intel Xeon (28 rdzeni), 64/128/256 GB RAM, od 1000 zł/mies. (umowa 24 mies.), SLA 99,9%.
+- Certyfikaty SSL (GoGetSSL, Sectigo, RapidSSL; DV/OV/EV): od 69 zł/rok.
+- .pl Registry Lock: 899 zł (promocja do 31.12.2026).
+- Transfer domen .pl: bezpłatny. Migracja strony i poczty: bezpłatna przy pakiecie hostingowym na 24 miesiące.
+- Kontakt: ul. Gdańska 119, 85-022 Bydgoszcz; tel. 52 366 77 77, biuro@domena.pl (pn–pt 8–16); dział techniczny 52 366 77 88, admin@domena.pl (pn–pt 7–17, sob. 10–12).
+- NIP 554-24-68-096, REGON 093031034, KRS 0000090753.
+
+## Domeny
+
+- [Rejestracja domen](https://www.domena.pl/domeny): ceny najpopularniejszych domen i wybór nazwy
+- [Cennik domen](https://www.domena.pl/cennik-domen): rejestracja, odnowienie i reaktywacja dla ponad 30 rozszerzeń
+- [Domena .pl](https://www.domena.pl/domeny/pl): fakty i zasady rejestracji domeny .pl
+- [Domena .com.pl](https://www.domena.pl/domeny/compl): polska domena drugiego rzędu
+- [Domena .eu](https://www.domena.pl/domeny/eu): europejska domena EURid
+- [Transfer domeny](https://www.domena.pl/domeny/transfer): jak przenieść domenę (kod AuthInfo)
+- [.pl Registry Lock](https://www.domena.pl/registrylock): blokada domeny w rejestrze NASK
+
+## Hosting i serwery
+
+- [Porównanie pakietów hostingowych](https://www.domena.pl/hosting): tabela parametrów i cen 4 pakietów
+- [Hosting Podstawowy](https://www.domena.pl/hosting/podstawowy): 200 GB SSD
+- [Hosting Optymalny](https://www.domena.pl/hosting/optymalny): 300 GB SSD, Mini SSL dla 1 domeny
+- [Hosting Profesjonalny](https://www.domena.pl/hosting/profesjonalny): 500 GB SSD, Mini SSL dla 2 domen
+- [Hosting Elitarny](https://www.domena.pl/hosting/elitarny): 1000 GB SSD, Mini SSL dla 5 domen
+- [VPS Cloud](https://www.domena.pl/hosting/vps): konfigurowalny serwer wirtualny z dostępem root
+- [Serwery dedykowane](https://www.domena.pl/hosting/serwery_dedykowane): 3 konfiguracje Intel Xeon
+- [Hosting SSD](https://www.domena.pl/ssd): czym jest i dlaczego jest szybszy
+- [Green hosting](https://www.domena.pl/green-hosting): ekologiczna infrastruktura
+- [Bezpłatna migracja](https://www.domena.pl/migracja): przeniesienie strony i poczty
+- [Certyfikaty SSL](https://www.domena.pl/ssl): porównanie 13 certyfikatów DV/OV/EV
+
+## Marketing i strony WWW
+
+- [Strony WWW](https://www.domena.pl/strony_www): projektowanie stron od 1 999 zł netto
+- [Pozycjonowanie](https://www.domena.pl/pozycjonowanie): SEO, bezpłatna wycena
+- [Google Ads](https://www.domena.pl/google-ads): kampanie od 300 zł
+- [Pakiety reklamowe](https://www.domena.pl/kampanie-reklamowe): SEO + Google Ads od 499 zł netto/mies.
+- [Copywriting SEO i AEO](https://www.domena.pl/copywriting-seo): teksty na strony
+
+## Firma i pomoc
+
+- [O nas](https://www.domena.pl/o_nas): historia, misja, nagrody
+- [Kontakt](https://www.domena.pl/kontakt): działy, godziny pracy, dane rejestrowe
+- [Infrastruktura](https://www.domena.pl/o_nas/infrastruktura): Exea Data Center, łącza, backup
+- [Pomoc – pytania i odpowiedzi](https://www.domena.pl/pomoc/pytania-i-odpowiedzi): ponad 80 odpowiedzi o domenach, hostingu, poczcie i płatnościach
+- [Konfiguracja poczty](https://www.domena.pl/pomoc/konfiguracja-poczty): serwery IMAP/POP3/SMTP i porty
+- [Phishing](https://www.domena.pl/phishing): jak rozpoznać fałszywe e-maile
+
+## Optional
+
+- [Aktualności](https://www.domena.pl/o_nas/aktualnosci): komunikaty i nowości
+- [Dokumenty i regulaminy](https://www.domena.pl/pomoc/dokumenty_i_regulaminy): regulaminy usług i wnioski

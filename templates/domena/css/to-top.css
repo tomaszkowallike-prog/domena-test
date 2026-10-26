@@ -1,0 +1,29 @@
+/* Script Scroll To Top */
+#toTop, #toTopHover {
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+}
+
+#toTop {
+    display: none;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    border: none;
+    text-indent: 100%;
+    background: url("../images/ui.totop.png") left top no-repeat;
+    z-index: 9999;
+}
+
+#toTopHover {
+    background: url("../images/ui.totop.png") left -40px no-repeat;
+    float: left;
+    opacity: 0;
+    -moz-opacity: 0;
+}
+
+#toTop:active, #toTop:focus {
+    outline: 0;
+}
+/* End Script Scroll To Top */

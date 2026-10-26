@@ -1,0 +1,131 @@
+/*
+ * jQuery Nivo Slider v3.2
+ * http://nivo.dev7studios.com
+ *
+ * Copyright 2012, Dev7studios
+ * Free to use and abuse under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ */
+/* The Nivo Slider styles */
+.nivoSlider {
+position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.nivo-main-image {
+    width: 100% !important;
+    height: 100% !important;
+    display: block !important;
+    position: relative !important;
+    margin: auto;
+}
+
+/* If an image is wrapped in a link */
+.nivoSlider a.nivo-imageLink {
+    width:100%;
+    position:absolute;
+    top:0px;
+    left: 0;
+    right:0%;
+    border:0;
+    padding:0;
+    /* margin: auto; */
+    z-index:6;
+    display:none;
+    background:white;
+    filter:alpha(opacity=0);
+    opacity:0;
+    float: left;
+}
+
+.nivo-imageLink img {
+    width: 100% !important;
+    height: 100% !important;
+}
+/* The slices and boxes in the Slider */
+.nivo-slice {
+    width: 100% !important;
+    display:block;
+    position:absolute;
+    z-index:5;
+    top:0;
+    left: 0 !important;
+}
+
+.nivo-slice > img {
+    width: 100% !important;
+}
+.nivo-box {
+    display:block;
+    position:absolute;
+    z-index:5;
+    overflow:hidden;
+}
+.nivo-box img {
+    display:block;
+}
+/* Caption styles */
+.nivo-caption {
+    width: 100%;
+    position: absolute;
+    z-index: 999;
+    top: 10%;
+    left: 0;
+}
+.nivo-caption .h2 {
+    font-size: 27px;
+    text-transform: uppercase;
+    color: #fff;
+}
+.nivo-caption p {
+    font-size: 24px;
+    font-weight: 300;
+    color: #fff;
+}
+.nivo-caption strong {
+    font-weight: 700!important;
+}
+.nivo-caption a {
+    display: inline !important;
+}
+.nivo-html-caption {
+    display: none;
+}
+/* Direction nav styles (e.g. Next & Prev) */
+.nivo-directionNav a {
+    width: 90px;
+    height: 92px;
+    margin-top: -46px;
+    position: absolute;
+    z-index: 10000;
+    top: 80%;			/*gora*/
+    left: 0;		/*strzalka lewa polozenie*/
+    cursor: pointer;
+    text-indent: -9000px;
+    background: transparent url("../images/arrows.png") no-repeat top left;
+}
+.nivo-directionNav a.nivo-nextNav {
+    right: 0;	/*strzalka prawa polozenie*/
+    left: auto;
+    background-position: top right;
+}
+/* Control nav styles (e.g. 1,2,3...) */
+.nivo-controlNav {
+    height: 0;
+    position: relative;
+    z-index: 999;
+    bottom: 50px;
+    text-align: center;
+}
+.nivo-controlNav a {
+    width: 22px;
+    height: 25px;
+    margin: 3px;
+    display: inline-block;
+    cursor: pointer;
+    background: url("../images/kolka.png") no-repeat -23px -2px;
+}
+.nivo-controlNav a.active {
+    background: url("../images/kolka.png") no-repeat 2px -2px;
+}

@@ -1,0 +1,15 @@
+<svg width="220" height="240" viewBox="0 0 220 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.35">
+<!-- kartka -->
+<path d="M36 30h86l30 30v130a8 8 0 0 1-8 8H36a8 8 0 0 1-8-8V38a8 8 0 0 1 8-8z"/>
+<path d="M122 30v30h30"/>
+<path d="M50 78h52M50 98h80M50 118h68M50 138h80M50 158h44"/>
+<!-- pióro -->
+<path d="M196 92l14 14-70 70-22 8 8-22z"/>
+<path d="M184 104l14 14"/>
+<path d="M126 176l-8 8"/>
+</g>
+<g fill="#fff" fill-opacity="0.35">
+<circle cx="182" cy="40" r="5"/><circle cx="14" cy="216" r="4"/>
+</g>
+</svg>
