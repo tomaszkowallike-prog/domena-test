@@ -30,7 +30,7 @@ function detectLeftButton(event) {
     }
 }
 
-$(document).on('click', 'a[href^="."]', function (event) {
+$(document).on('click', 'a[href^="#"]', function (event) {
     event.preventDefault();
     $('html, body').animate({
         scrollTop: $($.attr(this, 'href')).offset().top
@@ -45,7 +45,7 @@ $(document).on('mousedown', '.bx-viewport a', function (event) {
         if (h === '#') {
             return;
         }
-        if (h.startsWith('.')) {
+        if (h.startsWith('#')) {
             $('html, body').animate({
                 scrollTop: $($.attr(this, 'href')).offset().top
             }, 1000, "easeInOutExpo");
