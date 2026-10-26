@@ -44,3 +44,12 @@
     .aeo-table { font-size: 14px; }
     .aeo-table th, .aeo-table td { padding: 8px 8px; }
 }
+
+.aeo-details{border-radius:5px;background:#cae9bb;margin:8px 0 16px}
+.aeo-details summary{cursor:pointer;padding:18px 22px;font-weight:700;font-size:16px;color:#000;list-style:none}
+.aeo-details summary::-webkit-details-marker{display:none}
+.aeo-details summary:before{content:"+";display:inline-block;width:18px;font-weight:700}
+.aeo-details[open] summary{background:#72bf44;color:#fff;border-radius:5px 5px 0 0}
+.aeo-details[open] summary:before{content:"−"}
+.aeo-details-body{background:#fff;padding:16px;border:1px solid #cae9bb;border-top:0;border-radius:0 0 5px 5px}
+.aeo-details-body .aeo-table-wrap{margin:0}
